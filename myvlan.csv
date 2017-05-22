@@ -1,0 +1,3 @@
+cluster, vSwitch, VLANname,VlANid
+test, vswitch0, demo-storage, 2097
+test, vswitch0, demo-hypervisor, 2096
